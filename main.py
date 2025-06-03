@@ -18,7 +18,7 @@ def print_tree(directory, prefix=""):
 
 if __name__ == "__main__":
     # ✏️ Set your folder path here:
-    folder_path = r"C:\Users\786\Downloads\src(2)\src"
+    folder_path = r"D:\JawadWork\scrubber_project"
 
 
     print(f"\n📁 Directory structure of: {folder_path}\n")
