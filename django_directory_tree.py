@@ -26,7 +26,7 @@ def print_tree(directory, prefix="", exclude_dirs=None):
 
 if __name__ == "__main__":
     # ✏️ Set your folder path here:
-    folder_path = r"D:\JawadWork\scrubber_project"
+    folder_path = r"C:\Users\786\Downloads\django_boilerplate-master\moonbow"
 
     print(f"\n📁 Directory structure of: {folder_path}\n")
     print_tree(folder_path)

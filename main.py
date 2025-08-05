@@ -18,7 +18,7 @@ def print_tree(directory, prefix=""):
 
 if __name__ == "__main__":
     # ✏️ Set your folder path here:
-    folder_path = r"D:\JawadWork\scrubber_project"
+    folder_path = r"D:\JawadWork\GmailTracker-main"
 
 
     print(f"\n📁 Directory structure of: {folder_path}\n")
